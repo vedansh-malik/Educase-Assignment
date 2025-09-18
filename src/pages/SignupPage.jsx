@@ -29,7 +29,7 @@ export default function SignupPage() {
             type="text"
             name="full-name"
             className="w-full border-2 border-gray-300 rounded-lg p-3 pt-3 text-gray-700 placeholder-gray-400 focus:outline-none focus:border-purple-600"
-            placeholder="Marry Doe"
+            placeholder="Vedansh Malik"
             required
           />
           <label className="absolute left-[40px] top-[125px] bg-white px-2 text-purple-600 font-medium text-sm">Full Name*</label><label className="absolute left-[112px] top-[125px] bg-white px-1 text-red-600 font-medium text-sm">*</label>
